@@ -1,0 +1,3 @@
+welcome to git commands
+
+here i am working on one.txt file
